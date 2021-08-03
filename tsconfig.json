@@ -7,8 +7,10 @@
     "target": "ES2019",
 
     "esModuleInterop": true,
+    "suppressImplicitAnyIndexErrors": true,
     "forceConsistentCasingInFileNames": true,
     "removeComments": true,
+    
   },
   "include": [
     "./index.ts"
